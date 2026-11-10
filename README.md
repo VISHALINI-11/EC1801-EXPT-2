@@ -1,3 +1,4 @@
+
 # EXPT 2 - Verification of Logic Gates
 ### SIMULATION AND VERIFICATION OF AND, OR, AND NOT GATES
 ## Aim
@@ -78,7 +79,7 @@ Y_NOT = A'
 The design was compiled and simulated using Synopsys VCS, and the functionality was verified using DVE waveform analysis, matching the expected truth table.
 Output
 # OUTPUT
-
+<img width="1920" height="1080" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/a62b76a9-00df-4472-a4ba-1cd432cf6a49" />
 
  
 # Viva-Voce Questions
